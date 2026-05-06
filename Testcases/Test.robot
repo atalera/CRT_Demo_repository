@@ -10,14 +10,14 @@ Resource   ../Resources/common.resource
 *** Test Cases ***
 
 Verify_automatic_sharing_of_Account_Opportunity_Interaction_and_Interaction_Summary_for_the_role: London – Private Office_TC015
-    [Tags]    module-b
+    [Tags]    module-a
     Open Application URL
 
 
 
 TC_TC27
 
-    [Tags]     module-b
+    [Tags]     module-a
     Open Application URL
 
 
